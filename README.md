@@ -1,1 +1,1 @@
-En este repositorio se guardaran los distintos códigos y test realizados durante el curso de aprendizaje de Cypress
+En este repositorio se guardaran los distintos códigos y test realizados durante el curso de aprendizaje de Cypress. Podremos verlos en la carpeta e2e de Cypress y se irán añadiendo ramas para los nuevos avances del curso.
