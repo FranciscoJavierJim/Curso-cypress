@@ -1,0 +1,22 @@
+{
+  "name": "cypres-e2e-framework",
+  "version": "1.0.0",
+  "description": "E2E Framework Testing Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cy:open": "cypress open",
+    "cypress:chrome:pageobject": "cypress run --browser chrome --spec 'cypress/e2e/Page-obtect-model/*.cy.js'"
+  },
+  "keywords": [
+    "e2e",
+    "automation",
+    "framework"
+  ],
+  "author": "FJJA",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.5.4",
+    "cypress-mochawesome-reporter": "^4.0.2"
+  }
+}

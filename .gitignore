@@ -1,0 +1,19 @@
+# Node
+node_modules/
+
+# Cypress (screenshots y videos suelen ser binarios grandes)
+cypress/screenshots/
+cypress/videos/
+cypress/reports/
+
+# Entornos / secretos
+.env
+
+# macOS / editor / logs / build
+.DS_Store
+dist/
+coverage/
+.vscode/
+.idea/
+npm-debug.log*
+yarn-error.log*
